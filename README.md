@@ -1,4 +1,4 @@
-# coin_proj
+# Coin Project
 
 A Flutter project by S1CKK
 

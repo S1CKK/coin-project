@@ -1,6 +1,6 @@
 # coin_proj
 
-A new Flutter project.
+A Flutter project by S1CKK
 
 ## Getting Started
 
@@ -37,3 +37,29 @@ A Flutter application that displays cryptocurrency data with search, pagination,
 ```bash
 git clone git@github.com:S1CKK/coin-project.git
 cd coin-project
+```
+
+### 2. Install dependencies
+```bash
+flutter pub get
+```
+
+### 3. Run the app
+```bash
+flutter run
+```
+
+## 📦 Build
+### Android
+```
+flutter build apk
+```
+
+### iOS
+```
+flutter build ios
+```
+
+## 🌏 API
+Coin API: [https://developers.coinranking.com/api](https://developers.coinranking.com/api)
+

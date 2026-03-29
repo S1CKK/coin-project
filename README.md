@@ -17,7 +17,6 @@ A Flutter application that displays cryptocurrency data with search, pagination,
 - ♻️ Infinite scroll (fetch more)
 - 🎯 Invite Friends feature
 - 🌐 Localization (multi-language support)
-- ⚡ Clean architecture (if youใช้)
 
 ---
 
@@ -25,7 +24,7 @@ A Flutter application that displays cryptocurrency data with search, pagination,
 
 - Flutter
 - Dart
-- Cubit / Bloc (if using)
+- Cubit / Bloc
 - REST API
 - flutter_gen (l10n)
 

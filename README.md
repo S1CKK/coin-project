@@ -39,14 +39,10 @@ git clone git@github.com:S1CKK/coin-project.git
 cd coin-project
 ```
 
-### 2. Install dependencies
+### 2. Install dependencies and run
 ```bash
-flutter pub get
-```
-
-### 3. Run the app
-```bash
-flutter run
+chmod +x run.sh
+./run.sh
 ```
 
 ## 📦 Build
